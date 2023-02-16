@@ -1,1 +1,2 @@
-print("fdsafsd")
+zhipu='zhipu is sb'
+print(zhipu)
